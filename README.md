@@ -31,9 +31,13 @@ Little exploratory data analysis to get feeling about data.
 - select classifier
 - train it on training dataset
 - verify accuracy on testing dataset
-- classify new dataset
 
 ![alt text](https://user-images.githubusercontent.com/74175283/139528514-3c7461bc-b04d-44fc-bac7-3b5b49f21f69.png)
 ![alt text](https://user-images.githubusercontent.com/74175283/139528520-07a86bcb-97f5-48a5-a2fd-8b5858ae171f.png)
 
 
+### 4. Classify new dataset
+
+There is not as many spam tweets as I expected, but still it is nice if we have easy way of removing them from dataset before we move to next step.
+
+![alt text](https://user-images.githubusercontent.com/74175283/139528591-f52c4e14-c186-48dd-a20f-82056770bafb.png)
