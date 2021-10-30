@@ -43,4 +43,5 @@ There is not as many spam tweets as I expected, but still it is nice if we have 
 ![alt text](https://user-images.githubusercontent.com/74175283/139528591-f52c4e14-c186-48dd-a20f-82056770bafb.png)
 
 And finally here you can see most common words for spam vs ham tweets, distribution of lenght of tweets and also few samples of classified tweets.
+
 ![alt text](https://user-images.githubusercontent.com/74175283/139528655-9a7b4456-c893-4fee-b423-b920b00056f3.png)
