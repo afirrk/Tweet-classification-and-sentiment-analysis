@@ -32,3 +32,8 @@ Little exploratory data analysis to get feeling about data.
 - train it on training dataset
 - verify accuracy on testing dataset
 - classify new dataset
+
+![alt text](https://user-images.githubusercontent.com/74175283/139528514-3c7461bc-b04d-44fc-bac7-3b5b49f21f69.png)
+![alt text](https://user-images.githubusercontent.com/74175283/139528520-07a86bcb-97f5-48a5-a2fd-8b5858ae171f.png)
+
+
