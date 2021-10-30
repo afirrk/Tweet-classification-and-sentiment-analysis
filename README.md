@@ -26,7 +26,7 @@ Little exploratory data analysis to get feeling about data.
 
 ![alt text](https://user-images.githubusercontent.com/74175283/139528438-c175a3fa-6b91-4f47-a19a-03a962581f59.png)
 
-Time for classification
+## Time for classification
 - convert words in to matrix of tf-idf features
 - select classifier
 - train it on training dataset
