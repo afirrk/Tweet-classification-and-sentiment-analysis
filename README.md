@@ -1,4 +1,4 @@
-# Tweet-classification-and-sentiment-analysis
+# Tweet classification and sentiment analysis
 
 1) Download Tweets using Tweepy library
 
