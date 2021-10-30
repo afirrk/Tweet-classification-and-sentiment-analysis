@@ -9,3 +9,7 @@ I downloaded multiple csv files (for bitcoin, ethereum, cryptocurrencies...) and
 ### 2. Prepare Tweets for further use
 
 ![alt text](https://user-images.githubusercontent.com/74175283/139527599-267b37a3-31c3-4621-bd17-b69e0aebfc71.png)
+
+- remove links, hashtags, mentions
+- replace misspelled words with correct words
+- remove tweets that contain too little information compared to number of links or hashtags (usually ads or spam)
