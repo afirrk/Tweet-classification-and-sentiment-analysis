@@ -24,5 +24,11 @@ Then I cleaned it little more, removed stop words, tokenized and lemmatized each
 
 Little exploratory data analysis to get feeling about data.
 
-![alt text](https://user-images.githubusercontent.com/74175283/139528414-5c63d82e-4a38-4602-947e-0a9555844d13.png)
 ![alt text](https://user-images.githubusercontent.com/74175283/139528438-c175a3fa-6b91-4f47-a19a-03a962581f59.png)
+
+Time for classification
+- convert words in to matrix of tf-idf features
+- select classifier
+- train it on training dataset
+- verify accuracy on testing dataset
+- classify new dataset
