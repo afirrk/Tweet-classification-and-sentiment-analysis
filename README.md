@@ -13,3 +13,8 @@ I downloaded multiple csv files (for bitcoin, ethereum, cryptocurrencies...) and
 - remove links, hashtags, mentions
 - replace misspelled words with correct words
 - remove tweets that contain too little information compared to number of links or hashtags (usually ads or spam)
+
+### 3. Tweet Classification
+I noticed that there is a lot of tweets that are just spam, invitations to join projects or new coins. I want to use tweets for sentiment analysis and this kind of tweets don't bring any information about crypto world. That's why I want to mark them as spam and remove from dataset.
+
+![alt text](https://user-images.githubusercontent.com/74175283/139527781-4c9b001b-347d-499d-8fd1-c6d9eb9e7d30.png)
